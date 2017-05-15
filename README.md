@@ -1,6 +1,6 @@
 Este repositorio es para aprender GIT
 
-# TrainingGIT
+# CURSO DE GIT
 
 Agregar cosas a control de versiones
 crear un repositorio de git
